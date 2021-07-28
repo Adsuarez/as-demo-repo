@@ -1,6 +1,6 @@
 # Demo
 
-Estoy aprendiendo con mi amorsita
+Estoy aprendiendo con el amor de mi vida
 
 ## subheader
 
